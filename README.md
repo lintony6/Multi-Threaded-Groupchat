@@ -76,7 +76,7 @@ This project implements a multi-client group chat server and client entirely in 
 
 ---
 
-## 🔧 Build & Run
+## Build & Run
 
 ### Prerequisites
 - GCC with POSIX thread support (`-pthread`)
